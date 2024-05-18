@@ -1,23 +1,19 @@
- Methods.java contains 
-1.initialization of linked list
-methods such as
-1. get,
-2. add 
-3. addFirst,
-4. addLast ,
-5.set 
-6.remove,
-7. size 
-8.contains,
-9.remove,
-10.indexOf,
-11.clear ,
-12.isEmpty ,
-13.equals .
+**Title:** Linked List Java Implementation
 
-Operation.Java Contains
- 1.Creating a linked list with given inputs , 
-2.reversing of linked list
-3. sorting of linked list 
-4.converting linked list into array 
-5.converting array into linked list
+**Description:**
+
+This repository contains Java code for implementing a linked list data structure. The `Methods.java` file provides essential methods for creating, manipulating, and querying linked lists. The `Operation.java` file offers functionalities like creating linked lists from data, reversing, sorting, and converting between linked lists and arrays.
+
+**Sections:**
+
+* **Methods.java**
+    * CRUD operations (Create, Read, Update, Delete) for linked list elements
+    * Size, emptiness check, and element search
+    * Equality comparison between linked lists
+* **Operation.java**
+    * Linked list creation with initial data
+    * Reversing the linked list
+    * Sorting linked list elements
+    * Linked list to array and vice versa conversions
+
+**Languages:** Java
